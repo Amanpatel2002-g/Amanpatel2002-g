@@ -5,11 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariom2002&label=Profile%20views&color=0e75b6&style=flat" alt="hariom2002" /> </p>
 
-- 🌱 I’m currently learning *Blockchain*
 
-- 💬 Ask me about *C++ | Android (Flutter) | Blockchain*
+- 💬 Ask me about *C++ | Android (Flutter) |
 
-- 📫 How to reach me *patelhariomk@gmail.com*
+- 📫 How to reach me *appofficial2002@gmai.com*
 
 - ⚡ Fun fact *I'm Open to everything*
 
